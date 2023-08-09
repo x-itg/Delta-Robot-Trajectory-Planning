@@ -1,0 +1,9 @@
+H:\文档\电子发票未打印\Delta-Robot-Project-master\Visual Studio Project\deltabot1 interface\obj\Debug\deltabot1 interface.csprojAssemblyReference.cache
+H:\文档\电子发票未打印\Delta-Robot-Project-master\Visual Studio Project\deltabot1 interface\obj\Debug\deltabot1_interface.Form1.resources
+H:\文档\电子发票未打印\Delta-Robot-Project-master\Visual Studio Project\deltabot1 interface\obj\Debug\deltabot1_interface.Properties.Resources.resources
+H:\文档\电子发票未打印\Delta-Robot-Project-master\Visual Studio Project\deltabot1 interface\obj\Debug\deltabot1 interface.csproj.GenerateResource.cache
+H:\文档\电子发票未打印\Delta-Robot-Project-master\Visual Studio Project\deltabot1 interface\obj\Debug\deltabot1 interface.exe.manifest
+H:\文档\电子发票未打印\Delta-Robot-Project-master\Visual Studio Project\deltabot1 interface\obj\Debug\deltabot1 interface.application
+H:\文档\电子发票未打印\Delta-Robot-Project-master\Visual Studio Project\deltabot1 interface\obj\Debug\deltabot1 interface.exe.config
+H:\文档\电子发票未打印\Delta-Robot-Project-master\Visual Studio Project\deltabot1 interface\obj\Debug\deltabot1 interface.exe
+H:\文档\电子发票未打印\Delta-Robot-Project-master\Visual Studio Project\deltabot1 interface\obj\Debug\deltabot1 interface.pdb
